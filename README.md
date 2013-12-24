@@ -15,4 +15,4 @@
 
 #### users.register.tpl
 
-- `{USERS_REGISTER_VERIFYINPUT}`
+- `{USERS_REGISTER_VERIFYIMG}`
