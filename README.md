@@ -1,4 +1,8 @@
 
+## Requirements 
+
+- Cotonti 0.9.15 or greater
+
 ## Installation
 
 1. Download, unzip and extract into your plugins folder
